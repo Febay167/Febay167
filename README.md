@@ -14,6 +14,6 @@
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=febay167&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+    <img src="https://streak-stats.demolab.com?user=febay167&theme=default" />
 </picture>
 
